@@ -21,9 +21,9 @@ Planos BSC;
 Conclusão.
 
 ## Equipe:
-Alisson Henrique Rocha Da Costa
-Gabriel Castilho Medeiros de Souza
-Matheus Bueno Sirilo
-Mousher Natã de Sousa Santos
-Nathan Silveira Matheus de Souza
+Alisson Henrique Rocha Da Costa 
+Gabriel Castilho Medeiros de Souza 
+Matheus Bueno Sirilo 
+Mousher Natã de Sousa Santos 
+Nathan Silveira Matheus de Souza 
 
